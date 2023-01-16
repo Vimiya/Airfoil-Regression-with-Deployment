@@ -7,4 +7,3 @@ gunicorn
 Jinja2
 scipy
 matplotlib
-pickle
